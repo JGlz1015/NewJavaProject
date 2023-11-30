@@ -1,18 +1,5 @@
-## Getting Started
+Your project name, team name and team member(s): 
+Project Name: The Brick Breaker, Team Members: Jennifer Gonzalez
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Describe what you are trying to build, why do you want to build it, what it will be useful for, how it will be used, etc. 
+I am trying to build a simple type of game where the main objective is for the shape to break the breaks while it bounces off a panel, which is controlled by the player. I wanted to build a game that could be fun and used for entertainment. I also want to learn what it takes  to build a game, while figuring out and  testing out the different aspects that go in it. This project will be useful for learning more about Java programming, and the GUIs. The way it is used is by controlling the panel using the arrow keys in your keyboard to try to break all the bricks without letting the shape hit the bottom. Also with this game the more you play,or when you lose and press enter, the next stage will show some obstacles.
